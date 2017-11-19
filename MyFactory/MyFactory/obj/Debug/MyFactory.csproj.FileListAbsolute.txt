@@ -1,0 +1,12 @@
+C:\Users\Zaims\Desktop\MyFactory\MyFactory\MyFactory\bin\Debug\MyFactory.exe.config
+C:\Users\Zaims\Desktop\MyFactory\MyFactory\MyFactory\bin\Debug\MyFactory.exe
+C:\Users\Zaims\Desktop\MyFactory\MyFactory\MyFactory\bin\Debug\MyFactory.pdb
+C:\Users\Zaims\Desktop\MyFactory\MyFactory\MyFactory\obj\Debug\MyFactory.exe
+C:\Users\Zaims\Desktop\MyFactory\MyFactory\MyFactory\obj\Debug\MyFactory.pdb
+C:\Users\Zaims\Desktop\MyFactory\MyFactory\MyFactory\obj\Debug\MyFactory.csprojResolveAssemblyReference.cache
+C:\Users\Zaims\Desktop\MyPrograms\MyFactory\MyFactory\bin\Debug\MyFactory.exe.config
+C:\Users\Zaims\Desktop\MyPrograms\MyFactory\MyFactory\bin\Debug\MyFactory.exe
+C:\Users\Zaims\Desktop\MyPrograms\MyFactory\MyFactory\bin\Debug\MyFactory.pdb
+C:\Users\Zaims\Desktop\MyPrograms\MyFactory\MyFactory\obj\Debug\MyFactory.csprojResolveAssemblyReference.cache
+C:\Users\Zaims\Desktop\MyPrograms\MyFactory\MyFactory\obj\Debug\MyFactory.exe
+C:\Users\Zaims\Desktop\MyPrograms\MyFactory\MyFactory\obj\Debug\MyFactory.pdb
